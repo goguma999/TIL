@@ -1,2 +1,2 @@
-# LL
-Learning Log
+# TIL
+Today I Learned
